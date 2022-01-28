@@ -1,8 +1,10 @@
+<h1>Olá mundo!🌎</h1>
+
 ### Oi, eu sou o José Antonio, estudante de Ciência da Computação!
 
-- 🎓 Eu sou formado em técnico em informática pelo IFPB.
-- 🤖 Já desenvolvi com Arduino alguns robôs, como o segue faixa e o robô de sumo   
-- 👨🏼‍💻 Eu atualmente sou graduando em Ciência da Computação pela UEPB.
+- 🎓 Eu sou formado em Técnico em Informática pelo IFPB. 
+- 👨🏼‍💻 Atualmente sou graduando em Ciência da Computação pela UEPB.
+- 🤖 Eu sou apaixonado pela área da robótica.
 
 <div align="center">
   <a href="https://github.com/joseajr17">
