@@ -4,7 +4,7 @@
 
 - 🎓 Eu sou formado em Técnico em Informática pelo IFPB. 
 - 👨🏼‍💻 Atualmente sou graduando em Ciência da Computação pela UEPB.
-- 🤖 Eu sou apaixonado pela área de IoT.
+- 🤖 E sou apaixonado por tecnologia em geral.
 
 <div align="center">
   <a href="https://github.com/joseajr17">
