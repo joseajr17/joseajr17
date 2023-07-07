@@ -3,8 +3,7 @@
 ### Oi, eu sou o José Antonio, estudante de Ciência da Computação!
 
 - 🎓 Eu sou formado em Técnico em Informática pelo IFPB. 
-- 👨🏼‍💻 Atualmente sou graduando em Ciência da Computação pela UEPB.
-- 🤖 E sou apaixonado por tecnologia em geral.
+- 👨🏼‍💻 Atualmente sou graduando em Ciência da Computação pela UEPB - 6/8.
 
 <div align="center">
   <a href="https://github.com/joseajr17">
