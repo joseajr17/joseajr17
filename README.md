@@ -1,12 +1,10 @@
-<h1>Olá mundo!🌎</h1>
+<h1>José Antonio</h1>
 
-### Oi, eu sou o José Antonio, estudante de Ciência da Computação!
+### Estudante de Ciência da Computação pela UEPB.
 
-- 🎓 Eu sou formado em Técnico em Informática pelo IFPB. 
-- 👨🏼‍💻 Atualmente sou graduando em Ciência da Computação pela UEPB - 6/8.
 
-<div align="center">
+<div display="flex">
   <a href="https://github.com/joseajr17">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joseajr17&show_icons=true&theme=transparent"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseajr17&layout=compact&langs_count=7&theme=transparent"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=joseajr17&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseajr17&layout=compact&langs_count=7&theme=white"/>
 </div>
